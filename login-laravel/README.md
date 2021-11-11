@@ -19,7 +19,3 @@ Code for [Bookig System - Laravel 8](https://www.youtube.com/playlist?list=PLYO5
 
 Feel free to use and re-use any way you want.
 
-## More
-
-- Check out my YouTube channel [Dot Coding](https://www.youtube.com/channel/UCYobBTcVkUvIqQW3sSTGarg).
-- Feel free to send me an e-mail for support [dot.bol.lp@gmail.com](mailto:dot.bol.lp@gmail.com).
